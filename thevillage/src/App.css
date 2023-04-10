@@ -1,0 +1,18 @@
+html{
+  font-size: 62.5%;
+}
+
+:root {
+  --col1: #EDA261;
+  --col2: #FFFDEE;
+  --col3: #D3771D;
+  --col4: #D1C782;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Cinzel", sans-serif;
+  font-weight: 400;
+}
+
