@@ -9,7 +9,6 @@ const Home = () => {
     <Navbar/>
     <BannerSlider/>
     <HomeCategories/>
-    Home
     </div>
   )
 }
