@@ -47,7 +47,8 @@
 }
 
 .homeCategories .homeContainer:nth-child(1){
-    background-color: #ACE4AA;
+    /* background-color: #ACE4AA; */
+    background-color: #FCD29F;
     color: black;
     padding: 10px;
 }
@@ -59,13 +60,15 @@
 }
 
 .homeCategories .homeContainer:nth-child(3){
-    background-color: #FF6F59;
+    /* background-color: #FF6F59; */
+    background-color: #FCD29F;
     color: black;
     padding: 10px;
 }
 
 .homeCategories .homeContainer:nth-child(4){
-    background-color: #F2D492;
+    /* background-color: #F2D492; */
+    background-color: #FCD29F;
     color: black;
     padding: 30px;
 }
